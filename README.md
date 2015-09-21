@@ -9,3 +9,4 @@
 ### 性能优化
 
 * [首屏轮播图的性能优化](https://github.com/tjuking/blog/issues/2)
+* [Javascript检测浏览器对WebP的支持](https://github.com/tjuking/blog/issues/5)

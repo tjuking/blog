@@ -10,3 +10,7 @@
 
 * [首屏轮播图的性能优化](https://github.com/tjuking/blog/issues/2)
 * [Javascript检测浏览器对WebP的支持](https://github.com/tjuking/blog/issues/5)
+
+### JavaScript
+
+* [关于ReferenceError](https://github.com/tjuking/blog/issues/6)

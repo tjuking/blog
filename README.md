@@ -14,3 +14,6 @@
 ### JavaScript
 
 * [关于ReferenceError](https://github.com/tjuking/blog/issues/6)
+
+test
+

@@ -14,3 +14,7 @@
 ### JavaScript
 
 * [关于ReferenceError](https://github.com/tjuking/blog/issues/6)
+
+### 兼容性
+
+* [集合](https://github.com/tjuking/blog/issues/7)

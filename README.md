@@ -10,6 +10,7 @@
 
 * [首屏轮播图的性能优化](https://github.com/tjuking/blog/issues/2)
 * [Javascript检测浏览器对WebP的支持](https://github.com/tjuking/blog/issues/5)
+* [接口数据缓存](https://github.com/tjuking/blog/issues/8)
 
 ### JavaScript
 

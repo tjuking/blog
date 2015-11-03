@@ -15,6 +15,7 @@
 ### JavaScript
 
 * [关于ReferenceError](https://github.com/tjuking/blog/issues/6)
+* [接口异常的统一处理](https://github.com/tjuking/blog/issues/9)
 
 ### 兼容性
 

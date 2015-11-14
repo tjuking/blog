@@ -25,3 +25,4 @@
 
 * [JavaScript](https://github.com/tjuking/blog/issues/10)
 * [CSS](https://github.com/tjuking/blog/issues/11)
+* [综合](https://github.com/tjuking/blog/issues/12)
